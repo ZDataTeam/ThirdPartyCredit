@@ -103,5 +103,5 @@ ENV/
 #private
 .DS_Store
 .idea/
-private/
-output/
+/zhima/private/
+/zhima/output/
