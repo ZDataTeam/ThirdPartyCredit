@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#private
+zhima/private/
+.DS_Store
+.idea/
+zhima/output/
