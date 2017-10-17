@@ -31,6 +31,7 @@ if __name__ == '__main__':
     print(df_out.res_ori_data_verifyCode)
     print(df_out.res_ori_data_riskCode)
 
+    #todo:
 
     # print(di.OutputHeader.arr_all_verify, di.OutputHeader.raw_dict)
 
